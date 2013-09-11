@@ -15,7 +15,7 @@ Installations
 2. Extract the files to C:\Tomcat 
 3. Set environment variable: CATALINA_HOME=/Tomcat. Add $CATALINA_HOME/bin to PATH
 
-<b>Install WAMP server<b>
+<b>WAMP server<b>
 
 1) Download the WAMP stack from http://www.wampserver.com/en/ . Run the .exe file
 2) Run start Wampsever(wampmanager.exe)
