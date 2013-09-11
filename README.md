@@ -1,7 +1,10 @@
 SNAPPSakai-Beta
 ===============
 
-Extending SNAPP forum analysis toll for Sakai CLE (v2.8x &amp; v2.9x)
+Extending SNAPP forum analysis toll for Sakai CLE (v2.8x &amp; v2.9x).
+
+SNAPPSakai is an adaptaion and enhancement of SNAPP(Social Nextwork Analysis & Pedagogical Practices) forum analysis tool for Sakai Collaborative Learning Environment
+(v2.8 & v2.9) by Marist College.
 
 
 SNAPP was developed as part of a joint project, “‘Seeing’ networks: Visualising and evaluating student learning networks” -
@@ -15,9 +18,6 @@ Murdoch University – Associate Professor Rob Phillips
 The University of Queensland – Professor Phil Long and Ms Aneesha Bakharia
 University of British Columbia (Canada) – Dr Leah Macfadyen
 
-
-SNAPPSakai is an adaptaion and enhancement of SNAPP forum analysis tool for Sakai Collaborative Learning Environment
-(v2.8 & v2.9) by Marist College.
 
 What is SNAPP?
 ---------------------------
