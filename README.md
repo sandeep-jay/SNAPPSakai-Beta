@@ -12,11 +12,11 @@ an Office for Learning and Teaching (previously Australian Learning and Teaching
 the development of ICT mediated data visualisation resources.
 The project included both National and International research partners:
 
-University of Wollongong (Lead Institution) – Dr Shane Dawson and Associate Professor Lori Lockyer
-RMIT University – Professor Phil Poronnik
-Murdoch University – Associate Professor Rob Phillips
-The University of Queensland – Professor Phil Long and Ms Aneesha Bakharia
-University of British Columbia (Canada) – Dr Leah Macfadyen
+* University of Wollongong (Lead Institution) – Dr Shane Dawson and Associate Professor Lori Lockyer
+* RMIT University – Professor Phil Poronnik
+* Murdoch University – Associate Professor Rob Phillips
+* The University of Queensland – Professor Phil Long and Ms Aneesha Bakharia
+* University of British Columbia (Canada) – Dr Leah Macfadyen
 
 
 What is SNAPP?
