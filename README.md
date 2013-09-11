@@ -3,7 +3,7 @@ SNAPPSakai-Beta
 
 Extending SNAPP forum analysis toll for Sakai CLE (v2.8x &amp; v2.9x).
 
-SNAPPSakai is an adaptaion and enhancement of SNAPP(Social Nextwork Analysis & Pedagogical Practices) forum analysis tool for Sakai Collaborative Learning Environment
+SNAPPSakai is an adaptaion and enhancement of SNAPP(Social Network Analysis & Pedagogical Practices) forum analysis tool for Sakai Collaborative Learning Environment
 (v2.8 & v2.9) by Marist College.
 
 
