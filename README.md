@@ -48,3 +48,7 @@ A network diagram is a visual depiction of all interactions occurring among stud
   * provide you with a “before and after” snapshot of what kinds of interactions happened before and after you intervened/changed your learning activity design (useful to see what effect your changes have had on student interactions and for demonstrating reflective teaching practice e.g. through a teaching portfolio)
   * allow your students to benchmark their performance without the need for marking.
 
+
+Install & Deployment of SNAPP
+------------------------------
+Refer to https://github.com/sandeepmjay/SNAPPSakai-Beta/blob/master/INSTALL.md
