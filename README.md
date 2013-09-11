@@ -36,7 +36,7 @@ socio-constructivist practice. Discussion forum activity is a good indicator of 
 captured by most LMS. SNAPP uses information on who posted and replied to whom, and what major discussions were about, 
 and how expansive they were, to analyse the interactions of a forum and display it in a Social Network Diagram. 
 
-
+![SNAPP in Sakai v2.9] (resources/SNAPPSakai.PNG)
 What can a network diagram tell me?
 ------------------------------------
 
