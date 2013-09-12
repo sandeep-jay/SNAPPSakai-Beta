@@ -3,13 +3,13 @@ SNAPPSakai-Beta
 
 Extending SNAPP forum analysis toll for Sakai CLE (v2.8x &amp; v2.9x).
 
-SNAPPSakai is an adaptaion and enhancement of SNAPP(Social Network Analysis & Pedagogical Practices) forum analysis tool for Sakai Collaborative Learning Environment
+SNAPPSakai is an adaptation and enhancement of SNAPP(Social Network Analysis & Pedagogical Practices) forum analysis tool for Sakai Collaborative Learning Environment
 (v2.8 & v2.9) by Marist College.
 
 
-SNAPP was developed as part of a joint project, “‘Seeing’ networks: Visualising and evaluating student learning networks” -
+SNAPP was developed as part of a joint project, “‘Seeing’ networks: Visualizing and evaluating student learning networks” -
 an Office for Learning and Teaching (previously Australian Learning and Teaching Council) funded project focused towards 
-the development of ICT mediated data visualisation resources.
+the development of ICT mediated data visualization resources.
 The project included both National and International research partners:
 
 * University of Wollongong (Lead Institution) – Dr Shane Dawson and Associate Professor Lori Lockyer
@@ -23,7 +23,7 @@ What is SNAPP?
 ---------------------------
 
 SNAPP is a software tool that allows users to visualize the network of interactions resulting from discussion forum posts 
-and replies. The network visualisations of forum interactions provide an opportunity for teachers to rapidly identify 
+and replies. The network visualizations of forum interactions provide an opportunity for teachers to rapidly identify 
 patterns of user behaviour – at any stage of course progression. SNAPP has been developed to extract all user interactions 
 from various commercial and open source learning management systems (LMS) such as BlackBoard (including the former WebCT),
 Moodle and now Sakai. SNAPP is compatible for both Mac and PC users and operates in Firefox.
