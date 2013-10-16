@@ -5,6 +5,14 @@ To host SNAPP at your institution you will be requiring
 
 Installations
 --------------------
+
+<b>Install/Verify Java</b>
+1. Download Java from http://www.oracle.com/technetwork/java/javase/downloads/index.html
+2. Run the .exe file and install
+3. Set up JAVA_HOME environment variable as C:\Program Files\Java\jdk1.7.0_45
+4. Set up PATH variable as ;$JAVA_HOME\bin
+5. Verify Java installation in terminal/cmd using java -version.
+
 <b>Tomcat 7 <b>
 
 1. Apache Tomcat - http://tomcat.apache.org/
