@@ -26,8 +26,8 @@ Installations
 
 <b>WAMP server<b>
 
-1) Download the WAMP stack from http://www.wampserver.com/en/ . Run the .exe file
-2) Run start Wampsever(wampmanager.exe)
+1. Download the WAMP stack from http://www.wampserver.com/en/ . Run the .exe file
+2. Run start Wampsever(wampmanager.exe)
 
 Note: This step can be eliminated if you configure php in tomcat.
 
