@@ -39,7 +39,7 @@ Steps to host SNAPP on server
 1. Download the SNAPP source available in github https://github.com/sandeepmjay/SNAPPSakai-Beta. 
 2. Place this folder in the webapps folder of Tomcat.
 3. Start Tomcat by running the C:\Tomcat\bin\startup.bat.
-4. Open Firefox and enter the URL <i>http://localhost:8080/SNAPP/index.html<i>
+4. Open Firefox and enter the URL http://localhost:8080/SNAPP/index.html
 5. Right click on SNAPP V2 Beta link and bookmark the link.
 
 
