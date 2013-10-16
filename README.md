@@ -26,7 +26,7 @@ SNAPP is a software tool that allows users to visualize the network of interacti
 and replies. The network visualizations of forum interactions provide an opportunity for teachers to rapidly identify 
 patterns of user behaviour – at any stage of course progression. SNAPP has been developed to extract all user interactions 
 from various commercial and open source learning management systems (LMS) such as BlackBoard (including the former WebCT),
-Moodle and now Sakai. SNAPP is compatible for both Mac and PC users and operates in Firefox.
+Moodle and now Sakai. SNAPP is compatible for both Mac and PC users and operates in Chrome and Firefox.
 
 
 Most of the student data generated from Learning Management Systems (LMS) include reports on the number of sessions 
