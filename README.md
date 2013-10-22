@@ -56,5 +56,7 @@ Refer to https://github.com/sandeepmjay/SNAPPSakai-Beta/blob/master/INSTALL.md
 
 SNAPP Demo Video
 --------------------
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/A_sjWX-IPOU/0.jpg)](http://www.youtube.com/watch?v=A_sjWX-IPOU)
+A short screen movie which shows tool deployment and some of the tool nuances.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/JVyULPbb0Kw/0.jpg)](http://www.youtube.com/watch?v=JVyULPbb0Kw)
 
